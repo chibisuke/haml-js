@@ -1,6 +1,6 @@
 {
     "name": "@gymcore/haml",
-    "publishConfig": { "access": "public", "registry": "http://git01.ad.gymcore.ag/npm/" },
+    "publishConfig": { "access": "public", "registry": "http://git01.ad.gymcore.ag/api/v4/projects/25/packages/npm/" },
     "description": "Haml ported to server-side Javascript. This is a traditional server-side templating language.",
     "keywords": ["haml", "template"],
     "homepage": "https://github.com/creationix/haml-js",
@@ -8,5 +8,5 @@
     "bin": {
         "haml-js": "./lib/cli.js"
     },
-    "version": "0.1.0"
+    "version": "0.1.1"
 }
